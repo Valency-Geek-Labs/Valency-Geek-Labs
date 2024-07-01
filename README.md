@@ -8,13 +8,15 @@ Valency Geek Labs is a company created to develop awesome softwares maintained b
 
 ## Key Projects
 
-- **Deep Clean**: A simple software made for Data Scientists and those who work on Machine Learning Algorithms for prediction of datas to handle missing values in the csv files they reduce.Thus reducing the python code lines.
+- **Deep Clean**: A simple software made for Data Scientists and those who work on Machine Learning Algorithms for prediction of datas to handle missing values in the csv files.Thus reducing the python code lines.This software eliminates the preliminary cleaning process
 
 
 ## Connect with Us
 
 - Website: Working still!
-- LinkedIn:
-- Instagram:
+- LinkedIn: www.linkedin.com/in/valencygeeklabs
+- Instagram: https://www.instagram.com/valencygeeklabs.io/
+- Twitter: https://x.com/valencygeeklabs
+- SourceForge: https://sourceforge.net/u/valencygeeklabs/profile/
 
 

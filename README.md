@@ -1,6 +1,6 @@
 # Valency Geek Labs
 
-Welcome to Valency Geek Labs GitHub profile! We're passionate about developing user friendly softwares that may reduce your time professionally and committed to DEVELOPING BEST SOFTWARES FROM THE BOND OF SILICON TO YOUR MONITOR. Explore our repositories, learn about our team, and discover the innovative projects we're working on.
+Welcome to Valency Geek Labs GitHub profile! We're passionate about developing user friendly softwares that may reduce your time professionally and committed to DEVELOPING BEST SOFTWARES FROM THE BOND OF SILICON TO the SCREEN. Explore our repositories and discover the innovative projects we're working on.
 
 ## About Us
 
